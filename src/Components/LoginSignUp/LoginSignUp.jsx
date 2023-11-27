@@ -17,7 +17,7 @@ const LoginSignUp = () => {
         <div className="header">
             <div className="text">{action}</div>
             <div className="underline"></div>
-        </div>
+        </div>  
         <div className="inputs">
           {action==="Logowanie"?<div></div>:
           <div className="input">
